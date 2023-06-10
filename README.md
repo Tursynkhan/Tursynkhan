@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tursynkhan</h1>
 <h3 align="center">A passionate Fullstack developer from Kazakhstan</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Golang,Javascript**
 
