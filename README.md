@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi 👋, I'm Tursynkhan<br>A passionate Fullstack developer from Kazakhstan<br>👀 I’m interested in web-programming<br>🌱 I’m currently learning golang,js
+<h1 align="center">Hi 👋, I'm Tursynkhan</h1>
+<h3 align="center">A passionate Web developer from Astana</h3>
+
+- 🌱 I’m currently learning **Golang,Javascript**
 
 
 ## 🌐 Socials:
