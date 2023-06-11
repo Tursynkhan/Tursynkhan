@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tursynkhan</h1>
 <h3 align="center">A passionate Web developer from Astana</h3>
 
-- 🌱 I’m currently learning **Golang,Javascript**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tursynkhan-tursunov-a64763211) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Турсунов-Турсынхан) 
